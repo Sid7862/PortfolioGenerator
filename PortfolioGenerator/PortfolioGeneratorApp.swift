@@ -11,7 +11,7 @@ import SwiftUI
 struct PortfolioGeneratorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PortfolioView()
         }
     }
 }
